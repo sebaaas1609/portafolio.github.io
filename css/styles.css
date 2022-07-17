@@ -1,0 +1,31 @@
+body {
+  background-color: #faf3dd;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: gray;
+  width: 30%;
+}
+img {
+  border-radius: 0%;
+}
+h3 {
+  color: #68b0ab;
+}
+h1 {
+  color: #68b0ab;
+}
+p {
+  font: 1em sans-serif;
+}
+li {
+  font: 0.9em sans-serif;
+}
+td {
+  font: 0.9em sans-serif;
+}
+.circular {
+  border-radius: 70%;
+}
